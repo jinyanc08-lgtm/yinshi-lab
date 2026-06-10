@@ -12,10 +12,8 @@ permalink: /publications/
 
 
 
-<!--
 
-<p>Coming soon.</p>
--->
 {% bibliography --query @article %}
+
 
 </div>
