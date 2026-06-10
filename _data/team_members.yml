@@ -1,0 +1,20 @@
+# Current students and postdocs.
+# Each entry needs: name, photo, info
+# Optional: email, website, scholar, github, researchgate, cv
+# Photos go in images/ or images/team/
+
+- name: 蔡金燕
+  photo: team/cjy.jpg
+  info: 研究生，研究方向...
+
+- name: Albert Hibbs
+  photo: team/albert-hibbs.svg
+  info: PhD Student, Quantum Mechanics
+
+- name: Thomas Curtright
+  photo: team/thomas-curtright.svg
+  info: PhD Student, Quantum Field Theory
+
+- name: "This could be you!"
+  photo: rock.jpg
+  info: See openings for more info

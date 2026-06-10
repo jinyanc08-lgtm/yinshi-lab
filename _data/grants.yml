@@ -1,0 +1,13 @@
+# Grants and funding, shown on the About page.
+# Each entry needs: name
+- name: 2025年 全球人工智能算法竞赛国家二等奖（袁永杰、张新月、丁志豪）
+- name: 2025年 全球人工智能算法竞赛国家三等奖（施振扬、蔡金燕、高亿煊）
+- name: 2024年 全球人工智能算法竞赛国家一等奖（白银普、张瑞、方兴）
+- name: 2024年 全球人工智能算法竞赛国家二等奖（房家宝、陈海杰、孙文奇）
+- name: 2024年 全球人工智能算法竞赛国家二等奖（张俊明、薛保瑞、金世凯）
+- name: Shuaizi Guo#,Haijie Chen#, Xiangyu Sheng, Yinzheng Xiong, Menglin Wu, Katherine Fischer, Gregory E. Tasian, Yong Fan, Shi Yin, Cross-modal transfer learning based on an improved  CycleGAN model for kidney segmentation in ultrasound images, Ultrasoud in medicine and biology, 2024
+- name: Shuaizi Guo, Xiangyu Sheng, Haijie Chen, Jie Zhang, Qinmu Peng, Menglin Wu, Katherine Fischer, Gregory E. Tasian, Yong Fan, Shi Yin，A novel cross-modal data augmentation method based on contrastive unpaired translation network for kidney segmentation in ultrasound imaging, Medical physics, 2025
+- name: "Jie Zhang, Kun Mei, Zikang Feng, Shi Yin, Bing Wang, MMCT-Net: A Multi-Modal Hybrid CNN-Transformer Fusion Network for Preoperative Prediction of Malignant Invasion in Pulmonary Ground-Glass Nodules, Journal of imaging information in Medicine,2026"
+- name: 袁永杰; 温润轲; 尹诗; 王琛 ; 一种基于Mamba架构的遥感图像分割方法及系统, 2025-06-03, 中国,  ZL 2025 10321980.3 （专利）
+- name: 陈海杰；尹诗；房家宝；孙文奇；张杰；袁永杰；基于循环扩散与目标引导采样的医学影像生成方法及应用，2025 （专利）
+- name: 袁永杰： Mamba-Style：基于Mamba结构的高精度船舶提取模型  2025 国家级大创项目
