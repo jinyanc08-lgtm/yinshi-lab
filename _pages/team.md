@@ -1,5 +1,5 @@
 ---
-title: "Team"
+title: "团队成员"
 layout: gridlay
 sitemap: false
 permalink: /team/
