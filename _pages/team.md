@@ -7,7 +7,7 @@ permalink: /team/
 
 ## 团队成员
 
-**We are looking for new team members!**
+**我们期待你的加入！**
 
 ## 导师
 
