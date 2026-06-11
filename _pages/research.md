@@ -5,7 +5,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research
+## 研究方向
 
 <div class="research-grid">
 

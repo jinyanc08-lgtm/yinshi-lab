@@ -5,7 +5,7 @@ sitemap: false
 permalink: /team/
 ---
 
-## Team
+## 团队成员
 
 **We are looking for new team members!**
 

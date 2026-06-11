@@ -5,7 +5,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-## Publications
+## 学术成果
 
 
 <div class="section-card" id="pubList">

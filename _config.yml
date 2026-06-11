@@ -38,14 +38,10 @@ analytics:
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
 nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  - name: 关于我
+  - name: 学术成果
+  - name: 研究方向
+  - name: 团队成员
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
