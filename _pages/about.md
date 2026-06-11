@@ -1,11 +1,11 @@
 ---
-title: "关于我"
+title: "关于我们"
 layout: gridlay
 sitemap: false
 permalink: /about/
 ---
 
-## 关于我
+## 关于我们
 
 <div class="section-card">
 <div class="pi-card">
