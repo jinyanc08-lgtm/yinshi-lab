@@ -1,7 +1,6 @@
 ---
 title: "关于我们"
 layout: gridlay
-sitemap: false
 permalink: /about/
 ---
 

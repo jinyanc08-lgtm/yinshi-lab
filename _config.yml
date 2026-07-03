@@ -77,6 +77,10 @@ kramdown:
   enable_coderay: false
   parse_block_html: true
 
+collections:
+  pages:
+    output: true
+
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
