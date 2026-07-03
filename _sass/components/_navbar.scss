@@ -7,9 +7,10 @@
   padding: var(--space-3) var(--space-4);
   transition: box-shadow var(--transition-base);
   z-index: 1030;
-  backdrop-filter: saturate(180%) blur(16px);
-  -webkit-backdrop-filter: saturate(180%) blur(16px);
-  background-color: rgba(248, 246, 241, 0.8) !important;
+  //backdrop-filter: saturate(180%) blur(16px);
+  //-webkit-backdrop-filter: saturate(180%) blur(16px);
+  //background-color: rgba(248, 246, 241, 0.8) !important;
+  background-color: rgba(255, 255, 255, 0.95) !important;
 
   &.scrolled {
     box-shadow: var(--shadow-navbar);
@@ -42,11 +43,36 @@
   transition: color var(--transition-fast), background-color var(--transition-fast);
   letter-spacing: 0.02em;
 
+  /*
   &:hover {
     color: var(--accent) !important;
     background-color: var(--accent-light);
   }
+  */
+  &:hover {
+    color: #000 !important;
+    background-color: transparent !important;
+  }
 
+  &.active {
+  color: #000 !important;
+  font-weight: 700;
+  position: relative;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 2px;
+      left: var(--space-3);
+      right: var(--space-3);
+      height: 2px;
+      background-color: #000;
+      border-radius: 0;
+    }
+  }
+
+  
+  /*
   &.active {
     color: var(--accent) !important;
     position: relative;
@@ -62,6 +88,12 @@
       border-radius: 1px;
     }
   }
+  */
+}
+
+.nav-link.active:hover {
+  color: #000 !important;
+  background-color: transparent !important;
 }
 
 .dark-mode-toggle {
@@ -80,10 +112,17 @@
   height: 2rem;
   justify-content: center;
 
+  /*
   &:hover {
     color: var(--accent);
     border-color: var(--accent);
     background-color: var(--accent-light);
+  }
+  */
+
+  &:hover {
+    color: #000 !important;
+    background-color: transparent;
   }
 }
 

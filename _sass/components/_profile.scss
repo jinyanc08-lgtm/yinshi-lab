@@ -17,6 +17,7 @@
   overflow: hidden;
 
   // Decorative accent bar at top
+  /*
   &::before {
     content: '';
     position: absolute;
@@ -25,6 +26,17 @@
     right: 0;
     height: 3px;
     background: linear-gradient(90deg, var(--accent), var(--accent-hover));
+  }
+  */
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #000000;
   }
 
   .profile-photo {

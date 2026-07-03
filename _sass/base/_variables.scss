@@ -3,6 +3,7 @@
 // =============================================================
 
 :root {
+  /*
   // Accent — a warm scholarly teal
   --accent: #1a7a6d;
   --accent-hover: #15655a;
@@ -16,13 +17,37 @@
   --text-secondary: #5c5850;
   --text-muted: #8a857c;
   --border-color: #e2ded6;
+  */
+
+  // Accent — black & gray
+  --accent: #000000;
+  --accent-hover: #333333;
+  --accent-light: rgba(0, 0, 0, 0.05);
+
+  // Pure white academic style
+  --bg-primary: #ffffff;
+  --bg-secondary: #fafafa;
+  --bg-card: #ffffff;
+  --text-primary: #111111;
+  --text-secondary: #444444;
+  --text-muted: #777777;
+  --border-color: #dddddd;
+
+  /*
   --shadow-sm: 0 1px 3px rgba(44, 42, 37, 0.06);
   --shadow-md: 0 4px 12px rgba(44, 42, 37, 0.08);
   --shadow-lg: 0 8px 24px rgba(44, 42, 37, 0.1);
   --shadow-navbar: 0 1px 4px rgba(44, 42, 37, 0.1);
+  */
+
+  --shadow-sm: none;
+  --shadow-md: none;
+  --shadow-lg: none;
+  --shadow-navbar: none;
 
   // Layout
-  --container-max: 1100px;
+  //--container-max: 1100px;
+  --container-max: 1300px;
   --container-padding: 1.5rem;
 
   // Spacing scale

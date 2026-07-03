@@ -24,6 +24,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { font-size: 2.5rem; font-weight: 800; }
+
+h2 {
+  font-size: 1.875rem;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 2rem;
+    height: 2px;
+    background-color: #000000;
+    margin-top: var(--space-3);
+    border-radius: 1px;
+  }
+}
+
+/*
 h2 {
   font-size: 1.875rem;
   &::after {
@@ -36,6 +52,7 @@ h2 {
     border-radius: 1px;
   }
 }
+*/
 h3 { font-size: 1.375rem; }
 h4 { font-size: 1.125rem; }
 
