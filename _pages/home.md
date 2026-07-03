@@ -29,7 +29,7 @@ permalink: /
     </div>
 
     <ul>
-        <li>恭喜本实验室蔡金燕同学等论文《MMCT-Net: A Multi-Modal Hybrid CNN-Transformer Fusion Network for Preoperative Prediction of Malignant Invasion in Pulmonary Ground-Glass Nodules》被医学图像处理顶会 MICCAI 2026 接收。</li>
+        <li>恭喜本实验室蔡金燕同学等论文被医学图像处理顶会 MICCAI 2026 接收。</li>
     </ul>
 </div>
 
