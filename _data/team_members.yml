@@ -3,18 +3,22 @@
 # Optional: email, website, scholar, github, researchgate, cv
 # Photos go in images/ or images/team/
 
+- name: 施振扬
+  photo: team/szy.jpg
+  info: 2024级研究生
+
 - name: 蔡金燕
   photo: team/cjy.jpg
-  info: 研究生，研究方向...
+  info: 2024级研究生
 
-- name: Albert Hibbs
-  photo: team/albert-hibbs.svg
-  info: PhD Student, Quantum Mechanics
+- name: 石普庆
+  photo: team/spq.png
+  info: 2025级研究生
 
-- name: Thomas Curtright
-  photo: team/thomas-curtright.svg
-  info: PhD Student, Quantum Field Theory
+- name: 陈瑞昊
+  photo: team/crh.jpg
+  info: 2025级研究生
 
-- name: "This could be you!"
-  photo: rock.jpg
-  info: See openings for more info
+- name: 房家宝
+  photo: team/fjb.jpg
+  info: 2023级本科生
